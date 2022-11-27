@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tttest202211263"
+  site-url: "https://jbwhit.github.io/tttest202211263"
+  description: "Ask a Manager Survey"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/tttest202211263"
